@@ -1,0 +1,1 @@
+This program is a particle sandbox written in C for my final project in Fundamentals of Computing I. It uses the gfx libraries written by R. Bualuan with his permission, wich are included in the directory. To compile, type "make." 
