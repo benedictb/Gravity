@@ -24,12 +24,12 @@ Additionally, there are four different patterns that the program can simulate
 ## Screenshots
 
 #### Gravity pattern
-![Flow](https://github.com/benedictb/Gravity/blob/master/img/gravityn.png)
+![Gravity](https://github.com/benedictb/Gravity/blob/master/img/gravity.png)
 
 #### Flow pattern
 ![Flow](https://github.com/benedictb/Gravity/blob/master/img/explosion.png)
 
 #### Pulse pattern
-![Flow](https://github.com/benedictb/Gravity/blob/master/img/pulse.png)
+![Pulse](https://github.com/benedictb/Gravity/blob/master/img/pulse.png)
 
 
